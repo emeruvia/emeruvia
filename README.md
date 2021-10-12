@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Android Development
+- 🌱 I’m currently learning MVI Architecture
+
+![](https://github-readme-stats.vercel.app/api?username=emeruvia&show_icons=truel&include_all_commits=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emeruvia&layout=compact)](https://github.com/emeruvia?tab=repositories)
