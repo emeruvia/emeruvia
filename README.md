@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Android Development
-- 🌱 I’m currently learning MVI Architecture
+- 🔭 I’m currently working on Android development
+- 🌱 I’m currently learning native iOS development
 
 ![](https://github-readme-stats.vercel.app/api?username=emeruvia&show_icons=truel&include_all_commits=true&count_private=true)
 
