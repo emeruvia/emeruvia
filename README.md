@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emeruvia&label=Visitors&color=0e75b6&style=flat-square" alt="emeruvia" /> </p>
+
 - 🔭 I’m currently working on Android development
 - 🌱 I’m currently learning native iOS development
 
