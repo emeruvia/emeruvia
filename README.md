@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm Edgar Meruvia<br><br>- 🔭 I’m working as a Mobile Tech Lead<br>- 📚 I'm currently learning about Engineering Management<br>- ⚡ Fun fact: I was born and raised in Bolivia</p>
+<p align="left">I'm Edgar Meruvia<br><br>- 🔭 I’m working as a Mobile Engineer Manager<br>- 📚 I'm currently learning about Engineering Management<br>- ⚡ Fun fact: I was born and raised in Bolivia</p>
 
 ###
 
